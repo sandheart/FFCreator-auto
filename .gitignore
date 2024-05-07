@@ -43,6 +43,7 @@ source/build/
 static/
 examples/cache
 examples/output
+/.history
 
 # testing
 coverage/**
