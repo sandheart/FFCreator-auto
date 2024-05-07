@@ -1,6 +1,6 @@
 {
   "name": "ffcreator-auto",
-  "version": "7.3.5",
+  "version": "7.3.5001",
   "description": "FFCreator is a lightweight and flexible short video production library",
   "main": "lib/index.js",
   "types": "types/index.d.ts",
